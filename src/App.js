@@ -91,6 +91,7 @@ function App() {
           {/* setData는 수정을 위한 값, 바로 반영되서 보이게*/}
         </ul>
       </div>
+      {/* <img src='./ditto.jpg'></img> */}
     </article>
   );
 }
